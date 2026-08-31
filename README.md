@@ -1,39 +1,67 @@
 # Hi, I'm George 👋
 
+### Data Scientist
+
 I'm a **Data Science and Analytics graduate from the University of Santo Tomas**, based in Manila, Philippines.
 
-I'm interested in **data science, machine learning, geospatial analytics, artificial intelligence, and technology consulting**. I enjoy turning messy data into something understandable and useful.
+I work mainly with **data science, machine learning, geospatial analytics, and applied AI**. I enjoy the part of data work where a messy collection of numbers, files, maps, or text slowly turns into something that can actually explain a problem or support a decision.
 
-## Currently
+A lot of my academic and project work has involved building predictive models, working with geographic and satellite data, exploring large datasets, and translating technical results into something understandable. I'm especially interested in projects where data connects to a real-world problem rather than existing only for the sake of modeling.
 
-* 🌱 Building and organizing my data science portfolio
-* 📊 Exploring opportunities in AI, data, and technology consulting
-* 🗺️ Interested in projects involving geospatial data and real-world decision-making
-
-## Tools
-
-`Python` `SQL` `R` `JavaScript`
-`Pandas` `Scikit-learn` `XGBoost` `Google Earth Engine`
-`QGIS` `Power BI` `Tableau` `AWS`
-
-## A Little More About Me
-
-Outside of data, I'm usually:
-
-* 📺 Watching anime and becoming unnecessarily invested in fictional characters
-* 🤖 Building Gundam kits
-* 📷 Taking and editing photos
-* 🏀 Following the Golden State Warriors
-* 🎬 Overthinking movies and stories long after they end
-
-Some stories that have stayed with me include **Nana**, **A Silent Voice**, and **Dead Poets Society**.
-
-## Find Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-George%20Cruz-0A66C2?style=flat\&logo=linkedin)](https://www.linkedin.com/in/george-cruz-677971240)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat\&logo=gmail\&logoColor=white)](mailto:emangeorge1205@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-jo--calculus-181717?style=flat\&logo=github)](https://github.com/jo-calculus)
+📍 **Manila, Philippines**
+💼 [LinkedIn](https://www.linkedin.com/in/george-cruz-677971240)
+📧 [emangeorge1205@gmail.com](mailto:emangeorge1205@gmail.com)
 
 ---
 
-> Data, stories, and probably another Gundam kit waiting to be built.
+## Skills
+
+### Programming & Data
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat\&logo=r\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat\&logo=scikitlearn\&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-ML-orange?style=flat)
+
+### Geospatial & Visualization
+
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=flat\&logo=googleearthengine\&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat\&logo=qgis\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat\&logo=powerbi\&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat\&logo=tableau\&logoColor=white)
+
+### Tools & Platforms
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat\&logo=amazonwebservices\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat\&logo=jupyter\&logoColor=white)
+
+---
+
+## Beyond the Data
+
+Outside of data and tech, I spend a lot of time around stories, hobbies, and activities that let me either make something, think about something, or just move.
+
+📺 **Anime, films & stories** — I enjoy stories that stay interesting after they end, especially ones that give me something to think about, revisit, or overanalyze later.
+
+🤖 **Gunpla & model building** — I build Gundam model kits and enjoy the whole process, from choosing a kit to putting it together, detailing it, and eventually figuring out where to put it once the shelf starts running out of space.
+
+📷 **Photography** — I like taking and editing photos, especially experimenting with composition, framing, and making ordinary places or moments look a little more interesting.
+
+🏀 **Sports** — I follow basketball and also enjoy volleyball, cycling, and, more recently, bouldering. I like activities that combine technique, problem-solving, and getting better through repetition.
+
+🎮 **Games & everything else** — I’m usually watching, playing, building, or learning something. I tend to get interested not only in whether I enjoy something, but also in how it works and why it works.
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-George%20Cruz-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/george-cruz-677971240)
+[![Gmail](https://img.shields.io/badge/Gmail-emangeorge1205-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:emangeorge1205@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-jo--calculus-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/jo-calculus)
