@@ -60,6 +60,15 @@ Outside of data and tech, I spend a lot of time around stories, hobbies, and act
 
 ---
 
+## Featured Work
+
+📊 One of my dashboard visualizations was featured in Rappler's  
+[How engineers check if a building is safe after an earthquake](https://www.rappler.com/environment/disasters/how-engineers-check-building-safety-after-earthquake/).
+
+🌾 Co-developed ARARO, a machine-learning and remote-sensing capstone for municipality-level rice yield prediction in Nueva Ecija.
+
+---
+
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-George%20Cruz-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/george-cruz-677971240)
